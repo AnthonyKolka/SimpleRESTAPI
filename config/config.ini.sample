@@ -1,0 +1,16 @@
+{
+    "api_key": "",
+    "datasources":
+    {
+        "default":
+        {
+            "user": "",
+            "password": "",
+            "host": "",
+            "database": "",
+            "driver": "sqlsrv"
+        }
+    },
+    "debug": false,
+    "JWT_key": ""
+}
